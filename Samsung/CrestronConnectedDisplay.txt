@@ -1,0 +1,32 @@
+HDMI 1
+Menu On
+Turn off display
+mute 182 power on
+->Control
+->LFD Options
+B2B Spec Support
+CRESTRON Support -> ON
+
+Network -> Server Network Settings -> Crestron
+
+Server - [IP Address - NO http://]
+Port - 41794 [Unless otherwise specified]
+ID - IPID converted from HEX to DEC
+
+System -> Power Control -> Network Standby -> On
+
+Source Select 1 - DVI
+Source Select 2 - MagicInfo
+Source Select 3 - HDMI 1
+Source Select 4 - HDMI 2
+Source Select 5 - DisplayPort
+Source Select 6 - MagicINFO
+Source Select 7 - Screen Mirror
+Source Select 8 -
+Source Select 9 -
+Source Select 10 -
+Source Select 11 -
+Source Select 12 -
+Source Select 13 -
+Source Select 14 -
+Source Select 15 -
