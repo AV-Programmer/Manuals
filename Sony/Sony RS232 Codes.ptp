@@ -1,0 +1,118 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+10.128.0.2:6752
+192.168.1.254:23
+115200
+2
+63
+4
+0
+0
+
+COMMDISPLAY
+0
+
+VERSATAP
+0
+
+SEND
+0
+Power On
+8C 00 00 02 01 8F
+0
+5
+
+SEND
+1
+Power Off
+8C 00 00 02 00 8E
+0
+5
+
+SEND
+2
+Volume Up
+8C 00 05 03 00 00 94
+0
+5
+
+SEND
+3
+Volume Down
+8C 00 05 03 00 01 95
+0
+5
+
+SEND
+4
+Mute Toggle
+8C 00 06 02 00 94
+0
+5
+
+SEND
+5
+Info (Display)
+8C 00 0F 02 00 9D
+0
+5
+
+SEND
+6
+Action Menu
+8C 00 67 03 97 36 C3
+0
+5
+
+SEND
+7
+Up
+8C 00 67 03 01 74 6B
+0
+5
+
+SEND
+8
+Down
+8C 00 67 03 01 75 6C
+0
+5
+
+SEND
+9
+Right
+8C 00 67 03 01 33 2A
+0
+5
+
+SEND
+10
+Left
+8C 00 67 03 01 34 2B
+0
+5
+
+SEND
+11
+Enter (OK)
+8C 00 67 03 01 65 5C
+0
+5
+
+SEND
+12
+Return (Back)
+8C 00 67 03 97 23 B0
+0
+5
+
+SEND
+13
+Home
+8C 00 67 03 01 60 57
+0
+5
+
